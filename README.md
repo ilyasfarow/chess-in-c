@@ -81,11 +81,24 @@ The build script is specific to the university environment. Building elsewhere r
 5. Use standard chess rules to play.
 
 ## Screenshots
+![starting postion](<img width="477" height="485" alt="image" src="https://github.com/user-attachments/assets/cd4f0ca9-fbb9-4fa0-aca4-33eeeb24a0e0" />
+)
+![Mid Game](<img width="957" height="596" alt="image" src="https://github.com/user-attachments/assets/57fe3998-4cb6-4b39-afc6-9938e9d3947b" />)
+![checked postion](<img width="957" height="599" alt="image" src="https://github.com/user-attachments/assets/6ff716ac-d649-4a80-b76b-0d6fe4dbc193" />)
+![Castled Postion](<img width="959" height="599" alt="image" src="https://github.com/user-attachments/assets/df512b24-a343-4db2-a413-bab35bc45049" />)
+![Checkmate](<img width="953" height="590" alt="image" src="https://github.com/user-attachments/assets/46d84ea2-6a90-47d4-a902-c76d88e81824" />)
 
-_Add a screenshot of the running chess game here._
 
+
+
+
+
+### Gameplay
 ```markdown
-![Chess Game Screenshot](screenshots/chess-game.png)
+<img width="959" height="599" alt="image" src="https://github.com/user-attachments/assets/6c62d67b-6ab9-4b29-b2dd-9bf7f3daf61f" />
+
+
+
 ```
 
 ## What I Learned
